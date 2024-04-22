@@ -1,0 +1,8 @@
+# Ignore build output
+/dist/
+
+# Ignore dependencies
+/node_modules/
+
+# Ignore any compiled TypeScript files
+*.js
